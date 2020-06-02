@@ -1,0 +1,17 @@
+---
+title: "LearningMarkdown"
+author: "CAM"
+date: "02-06-2020"
+output: html_document
+---
+
+*Hi this is my Markdown*
+
+Here I am 
+<https://es.maps-chile.com/chile-en-el-mapa-del-mundo>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
